@@ -1,7 +1,7 @@
 appium_sample_proj
 ==================
 
-same set up for android automation
+sample set up for android automation and appium
 
 
 To run `rspec specs/`

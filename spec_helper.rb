@@ -12,7 +12,7 @@ def desired_caps
     automationName: "Android",
     platformName: "Android",
     platformVersion: "4.4",
-    deviceName: "Android Eulator",
+    deviceName: "Android Emulator",
     app: path_to_app,
   },
   appium_lib: {
